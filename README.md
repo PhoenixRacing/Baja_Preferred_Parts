@@ -1,5 +1,5 @@
-# OEM_Preferred_Parts
-KiCad library employed by Olin Electric Motorsports electrical team.
+# Baja_Preferred_Parts
+KiCad library employed by Olin Baja electrical team.
 
 ### Guidelines
 1. General symbol naming guidelines
