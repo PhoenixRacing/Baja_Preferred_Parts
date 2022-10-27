@@ -12,6 +12,7 @@ KiCad library employed by Olin Baja electrical team.
          * MFN, or Manufacturer Name (e.g., `ST`)
          * MPN, or Manufacturer Part Number (e.g., `STM32F439BIT6`)
          * PurchasingLink (e.g, `https://www.digikey.com/product-detail/en/stmicroelectronics/STM32F439BIT6/497-17468-ND/5268309`)
+		 * DigikeyPN (e.g, `516-1428-1-ND`)
 
     * Library naming should not be duplicated in footprint name
 
